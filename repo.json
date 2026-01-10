@@ -24,6 +24,7 @@
         "Author": "Nexai",
         "Name": "Memba",
         "InternalName": "Memba",
+        "AssemblyVersion": "1.0.0.0",        
         "Punchline": "Memba?! I memba when we had RAM.",
         "Description": "FFXIV Memory Manager. Download more RAM! 0xDEADBEEF\n\nNote: This plugin is primarily designed for multibox users.",
         "ApplicableVersion": "any",
