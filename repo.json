@@ -1,0 +1,42 @@
+[
+    {
+        "Author": "Nexai",
+        "Name": "FCCH",
+        "InternalName": "FCCH",
+        "AssemblyVersion": "1.0.0.1",
+        "Punchline": "FC Chest Helper. You ain't savin these slots, you puttin em to work.",
+        "Description": "Automates moving existing items to and from the FC Chest.\nEasily withdraw custom item lists or materials for workshop projects.\n\nNote: Temporarily disables YesAlready while depositing or withdrawing.",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 14,
+        "RepoUrl": "https://github.com/Nexaii/FCCH",
+        "IconUrl": "https://raw.githubusercontent.com/Nexaii/dalamud-plugins/main/assets/fcch.png",
+        "DownloadLinkInstall": "https://github.com/Nexaii/FCCH/releases/latest/download/FCCH.zip",
+        "DownloadLinkUpdate": "https://github.com/Nexaii/FCCH/releases/latest/download/FCCH.zip",
+        "Tags": [
+            "fc",
+            "chest",
+            "inventory",
+            "deposit",
+            "withdraw"
+        ]
+    },
+    {
+        "Author": "Nexai",
+        "Name": "Memba",
+        "InternalName": "Memba",
+        "Punchline": "Memba?! I memba when we had RAM.",
+        "Description": "FFXIV Memory Manager. Download more RAM! 0xDEADBEEF\n\nNote: This plugin is primarily designed for multibox users.",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 14,
+        "RepoUrl": "https://github.com/Nexaii/Memba",
+        "IconUrl": "https://raw.githubusercontent.com/Nexaii/dalamud-plugins/main/assets/memba.png",
+        "DownloadLinkInstall": "https://github.com/Nexaii/Memba/releases/latest/download/Memba.zip",
+        "DownloadLinkUpdate": "https://github.com/Nexaii/Memba/releases/latest/download/Memba.zip",
+        "Tags": [
+            "memory",
+            "ram",
+            "performance",
+            "optimization"
+        ]
+    }
+]
