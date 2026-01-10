@@ -40,8 +40,7 @@ To access these plugins, add the custom repository to Dalamud:
 ### [Memba](https://github.com/Nexaii/Memba)
 **Memory Management Utility**
 *   **Ram Purge**: Triggers Windows `EmptyWorkingSet` to reclaim physical RAM from the FFXIV client.
-*   **Heap Compaction**: Forces .NET Large Object Heap (LOH) compaction to reduce fragmentation.
-*   **Auto-Trim**: Automatically performing maintenance in the background during downtime (afk, non combat).
-*   **Multi-box Optimized**: Ideal for running multiple clients.
+*   **Auto-Trim**: Automatically performing timed maintenance in the background during downtime (afk, non combat).
+*   **Multibox Optimized**: Ideal for running multiple clients.
 
 ---
