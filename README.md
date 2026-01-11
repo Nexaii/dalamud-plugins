@@ -35,12 +35,13 @@ To access these plugins, add the custom repository to Dalamud:
 *   **Smart Deposits**: Rapid "Deposit All" or clean "Deposit Duplicates" modes.
 *   **Workshop Mode**: One click withdrawal for set projects.
 *   **Retrieval Tools**: Custom "Singles" lists or "Withdraw All" for rapid tab clearing.
-*   **Utilities**: List sharing via clipboard & stack preservation logic.
+*   **Utilities**: List sharing via clipboard and stack preservation logic.
 
 ### [Memba](https://github.com/Nexaii/Memba)
 **Memory Management Utility**
 *   **Ram Purge**: Triggers Windows `EmptyWorkingSet` to reclaim physical RAM from the FFXIV client.
 *   **Auto-Trim**: Automatically performing timed maintenance in the background during downtime (afk, non combat).
 *   **Multibox Optimized**: Ideal for running multiple clients.
+*   **What to Expect**: Usage will drop to a minimum, then gradually rise as active data is reloaded. It typically stabilizes around 2-3GB+, depending on your settings and activity.
 
 ---
