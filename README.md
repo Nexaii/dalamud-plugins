@@ -41,10 +41,13 @@ To access these plugins, add the custom repository to Dalamud:
 
 ### [Memba](https://github.com/Nexaii/Memba)
 **Memory Management Utility**
+⚠️ NOT FOR REGULAR PLAY. This plugin is designed for multiboxers (4+ clients) running idle routines such as retainers and submarines. More aggressive culling is planned for future releases. Do not install this if you are playing normally. It grants no lasting performance benefit for a single active client.
+
 *   **Ram Purge**: Triggers Windows `EmptyWorkingSet` to reclaim physical RAM from the FFXIV client.
 *   **Auto-Trim**: Automatically performing timed maintenance in the background during downtime (afk, non combat).
-*   **Multibox Optimized**: Ideal for running multiple clients.
-*   **What to Expect**: Usage will drop to a minimum, then gradually rise as active data is reloaded. It typically stabilizes around 2-3GB+, depending on your settings and activity.
+*   **Multibox Optimized**: Designed for 4+ clients running idle routines (retainers/subs). **Not for regular play.**
+*   **Future Tech**: More aggressive culling features are planned for future releases.
+*   **What to Expect**: Usage will drop to a minimum, then gradually rise as active data is reloaded. It typically stabilizes around 1-3GB+, depending on your settings and activity.
 
 ---
 
