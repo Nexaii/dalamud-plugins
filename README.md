@@ -33,11 +33,11 @@ To access these plugins, add the custom repository to Dalamud:
 ## 🧩 Plugins
 
 ### [FCCH - Free Company Chest Helper](https://github.com/Nexaii/FCCH)
-**Automated Inventory & Workshop Logistics**
-*   **Smart Deposits**: Rapid "Deposit All" or clean "Deposit Duplicates" modes.
-*   **Workshop Mode**: One click withdrawal for set projects.
-*   **Retrieval Tools**: Custom "Singles" lists or "Withdraw All" for rapid tab clearing.
-*   **Utilities**: List sharing via clipboard and stack preservation logic.
+**Automated inventory auditing and management for Final Fantasy XIV.**
+*   **Deposit Tools**: Deposit All, Deposit Duplicates (match existing stacks), Deposit Crystals (with configurable keep amounts).
+*   **Withdraw Tools**: Withdraw All, Custom Lists (ceruleum, repair kits, etc.), Workshop (exact project materials), Crystals (threshold based).
+*   **Organizer**: Move items between tabs with filters, Sort items by category/ID/name/quantity.
+*   **Utilities**: Ignore List with presets, Crystal Config (global or per crystal), Leave One per Stack, Export/Import via clipboard.
 
 ### [Memba](https://github.com/Nexaii/Memba)
 **Memory Management Utility**

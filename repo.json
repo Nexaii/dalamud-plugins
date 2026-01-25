@@ -3,8 +3,8 @@
         "Author": "Nexai",
         "Name": "FCCH",
         "InternalName": "FCCH",
-        "AssemblyVersion": "1.1.0.0",
-        "Description": "Free Company Chest Helper. Automates moving existing items to and from the Free Company Chest.\nEasily withdraw custom item lists or sets of materials for workshop projects.",
+        "AssemblyVersion": "2.0.0.0",
+        "Description": "Free Company Chest Helper. Automate deposits, withdrawals, and organization. Manage crystals, custom lists, and workshop projects.",
         "Punchline": "You ain't savin these slots, you puttin em to work.",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 14,
@@ -12,12 +12,12 @@
         "IconUrl": "https://raw.githubusercontent.com/Nexaii/dalamud-plugins/main/assets/fcch.png",
         "DownloadLinkInstall": "https://github.com/Nexaii/FCCH/releases/latest/download/FCCH.zip",
         "DownloadLinkUpdate": "https://github.com/Nexaii/FCCH/releases/latest/download/FCCH.zip",
+        "Changelog": "- Crystal management: Dedicated tab, deposit/withdraw with keep amounts\n- Gil deposit/withdraw commands (gd/gw with k/m/all support)\n- Organizer: Move and Sort items between FC chest tabs\n- Refactored codebase structure",
         "Tags": [
             "fc",
             "chest",
             "inventory",
-            "deposit",
-            "withdraw"
+            "automation"
         ]
     },
     {
